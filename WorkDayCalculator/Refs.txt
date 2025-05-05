@@ -1,0 +1,19 @@
+Atsauces:
+2010 - https://www.lsm.lv/raksts/zinas/latvija/2010.gada-parcels-vairakas-darba-dienas.a18486/
+2011 - https://www.lsm.lv/raksts/zinas/latvija/sogad-neviena-darbadiena-netiks-parcelta.a16177/
+2012 - https://www.lsm.lv/raksts/zinas/latvija/2012.gada-parcels-vienu-darba-dienu.a16144/
+2013 - https://www.lsm.lv/raksts/zinas/ekonomika/2013.gada-parcels-divas-darba-dienas.a14486/
+2014 - https://www.lsm.lv/raksts/zinas/latvija/2014.gada-parcels-divas-darba-dienas-maija-un-novembri.a59751/
+2015 - https://www.lsm.lv/raksts/zinas/latvija/nakamgad-parcels-divas-darbdienas.a86678/
+2016 - 
+2017 - https://www.tavirekini.lv/noderigi/2017-gada-darba-dienu-kalendars
+2018 - https://www.tavirekini.lv/noderigi/2018-gada-darba-dienu-kalendars
+2019 - https://www.tavirekini.lv/noderigi/2019-gada-darba-dienu-kalendars
+2020 - https://www.tavirekini.lv/noderigi/2020-gada-darba-dienu-kalendars
+2021 - https://www.tavirekini.lv/noderigi/2021-gada-darba-dienu-kalendars
+2022 - https://www.tavirekini.lv/noderigi/2022-gada-darba-dienu-kalendars
+2023 - https://www.tavirekini.lv/noderigi/2023-gada-darba-dienu-kalendars
+2024 - https://www.tavirekini.lv/noderigi/2024-gada-darba-dienu-kalendars
+2025 - https://www.tavirekini.lv/noderigi/2025-gada-darba-dienu-kalendars
+
+Failā ParceltasDienas.json ir saraksts ar visām pārceltajām dienām, kur atslēga ir pārceltā diena un vērtība ir diena, uz kuru pārceļ.
