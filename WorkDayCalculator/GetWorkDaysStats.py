@@ -43,7 +43,7 @@ def darba_dienas_no_lidz(start_date: str, end_date: str):
 
 
 if __name__ == '__main__':
-    path = 'lvportals/'
+    path = 'data/'
     onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
 
     result = {}
